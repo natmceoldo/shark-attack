@@ -1,2 +1,6 @@
 # Jupyter Notebook
 .ipynb_checkpoints
+
+# Compressed archives
+.zip
+.rar
